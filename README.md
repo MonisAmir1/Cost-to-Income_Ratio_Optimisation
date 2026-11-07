@@ -4,7 +4,7 @@
 
 <img width="1065" height="596" alt="Dashboard" src="https://github.com/user-attachments/assets/15a2f002-44f5-428f-a56a-ac1b145ed8f3" />
 
-## **View the Full Project →**
+## **View the Full Project → https://monisamir1.github.io/projects/cost-to-income-ratio**
 
 ## About the Project
 
@@ -66,4 +66,4 @@ This project uses a **real-world synthetic dataset** created specifically for po
 
 The complete case study contains the detailed business context, analytical investigation, findings, recommendations, business impact, and technical implementation.
 
-## **View the Full Project →**
+## **View the Full Project → https://monisamir1.github.io/projects/cost-to-income-ratio**
